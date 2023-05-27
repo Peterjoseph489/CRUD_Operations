@@ -1,0 +1,15 @@
+Provide a solution for a fueling station where these requirements are to be met.
+
+1. staff registration
+2. staff removal
+3. staff information update
+4. identifying a particular staff credentials
+
+Use the below information
+1. StaffName
+2. StaffAddress
+3. StaffSalary
+4. StaffPosition
+5. StaffGender
+
+Your Database should be a Javascript Object and no external database is needed.
